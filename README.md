@@ -10,7 +10,7 @@ I am passionate about computer science, mathematics, with a strong academic and 
 ### 💻 Professional & Project Experience
 - **Backend Developer:** Experience with Java and the SpringBoot ecosystem
 - **Co-founder & Developer:** [Web3 browser game on blockchain](https://github.com/LorenzoCiarpa/ancient-society)
-- **Co-founder:** [hiresales web application]([LINK-TO-APP-OR-REPO](https://www.hiresales.io/?lng=it) 
+- **Co-founder:** [hiresales web application](https://www.hiresales.io/?lng=it) 
 
 ### 🧠 Research and Interests
 - Researcher in machine learning and large-scale neural network optimization.
