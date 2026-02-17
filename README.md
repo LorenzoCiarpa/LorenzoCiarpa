@@ -10,11 +10,12 @@ I am passionate about computer science, mathematics, with a strong academic and 
 ### 💻 Professional & Project Experience
 - **Backend Developer:** Experience with Java and the SpringBoot ecosystem
 - **Co-founder & Developer:** [Web3 browser game on blockchain](https://github.com/LorenzoCiarpa/ancient-society)
-- **Co-founder:** [hiresales web application](https://www.hiresales.io/?lng=it) 
+- **Co-founder & Developer:** [hiresales web application](https://www.hiresales.io/?lng=it) 
+- **Co-founder & Developer:** [oversell web application]([https://oversell.ai/]) 
 
 ### 🧠 Research and Interests
 - Researcher in machine learning and large-scale neural network optimization.
-- Deeply interested in the theoretical computer science, mathematics and Operations Researches.
+- Deeply interested in the theoretical computer science, mathematics, AI, Robotics and Operations Researches.
 
 ### 🚀 Public Projects
 You’ll find on my GitHub a range of projects mainly focused on:
@@ -41,8 +42,6 @@ Feel free to connect or check out my [GitHub profile](https://github.com/lorenzo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
