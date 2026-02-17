@@ -11,7 +11,7 @@ I am passionate about computer science, mathematics, with a strong academic and 
 - **Backend Developer:** Experience with Java and the SpringBoot ecosystem
 - **Co-founder & Developer:** [Web3 browser game on blockchain](https://github.com/LorenzoCiarpa/ancient-society)
 - **Co-founder & Developer:** [hiresales web application](https://www.hiresales.io/?lng=it) 
-- **Co-founder & Developer:** [oversell web application]([https://oversell.ai/]) 
+- **Co-founder & Developer:** [oversell web application](https://oversell.ai/) 
 
 ### 🧠 Research and Interests
 - Researcher in machine learning and large-scale neural network optimization.
