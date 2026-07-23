@@ -1,5 +1,3 @@
-I am passionate about computer science, mathematics, with a strong academic and professional background spanning engineering, artificial intelligence, and software development.  
-
 ### 🎓 Academic Background
 - **Bachelor’s Degree** in Computer and Control Engineering  
 - **Master’s Degree** in Artificial Intelligence and Robotics  
