@@ -1,5 +1,3 @@
-## Hi there 👋 I'm Lorenzo Ciarpaglini
-
 I am passionate about computer science, mathematics, with a strong academic and professional background spanning engineering, artificial intelligence, and software development.  
 
 ### 🎓 Academic Background
@@ -25,8 +23,6 @@ You’ll find on my GitHub a range of projects mainly focused on:
 - **Robotics Applications**
 
 > I am always open to collaboration and discussion on topics related to artificial intelligence, optimization, or innovative software projects!
-
-Feel free to connect or check out my [GitHub profile](https://github.com/lorenzociarpa) for more details about my work and technical contributions.
 
 ### 🚀 Languages & Tools
 
